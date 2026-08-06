@@ -16,7 +16,7 @@ I enjoy building scalable, secure and maintainable software, solving real-world 
 - 🔐 Cyber Security & Secure Application Development
 - 📱 Full Stack Web & Mobile Application Development
 - 🧠 AI-Assisted Software Engineering
-- 🏢 Multi-Tenant SaaS Product Development
+- 🏢 Multi-Tenant SaaS Architecture & Product Development
 - 🌐 Google Workspace Administration (13,000+ Users)
 
 ---
