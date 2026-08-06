@@ -2,9 +2,9 @@
 
 ## Solution Architect | Enterprise Applications | Cloud | AI-Assisted Software Engineering
 
-Technology professional with **13+ years of experience** designing, developing and delivering enterprise applications, cloud-native platforms and digital transformation solutions across **Government, Financial and SaaS** domains.
+Technology professional with **13+ years** of experience designing, developing and delivering enterprise applications, cloud-native platforms and digital transformation solutions across Government, Financial Services and SaaS domains.
 
-I enjoy building scalable, secure and maintainable software, solving real-world business problems and exploring modern technologies including AI-assisted software engineering.
+Passionate about designing scalable, secure and maintainable software that solves real-world business challenges through modern engineering practices and AI-assisted software development.
 
 ---
 
@@ -32,6 +32,13 @@ I enjoy building scalable, secure and maintainable software, solving real-world 
 - Cloud-Native Applications
 - Enterprise Integrations
 
+### Cloud & DevOps
+- Google Cloud Platform
+- Docker
+- Kubernetes
+- Linux
+- Nginx
+
 ### Backend Development
 - Go (GoLang)
 - Java
@@ -50,13 +57,6 @@ I enjoy building scalable, secure and maintainable software, solving real-world 
 - MySQL
 - SQL Server
 
-### Cloud & DevOps
-- Google Cloud Platform
-- Docker
-- Kubernetes
-- Linux
-- Nginx
-
 ### Security
 - Kali Linux
 - Vulnerability Assessment
@@ -65,12 +65,12 @@ I enjoy building scalable, secure and maintainable software, solving real-world 
 - Secure Application Development
 
 ### AI-Assisted Engineering
+- AI-Assisted Software Development
+- Prompt Engineering
 - Cursor
 - ChatGPT
 - Google Gemini
 - Google AI Studio
-- Prompt Engineering
-- AI-assisted Software Development
 
 ### Automation
 - n8n
@@ -92,7 +92,7 @@ Built an enterprise Management Information System with **200+ operational and an
 ---
 
 ### ☁ India Post 2.0 Cloud-Native Platform (PoC)
-Designed and developed a cloud-native Proof of Concept using **GoLang, Spring Boot, Docker, Kubernetes, Kafka, Cassandra, PostgreSQL and Keycloak** to demonstrate the modernization architecture for next-generation postal applications.
+Designed and developed a cloud-native Proof of Concept using **GoLang, Spring Boot, Docker, Kubernetes, Kafka, Cassandra, PostgreSQL and Keycloak** to demonstrate the modern microservices architecture for next-generation postal applications.
 
 ---
 
@@ -102,7 +102,7 @@ Designed and developed an in-house Digital Signature Platform enabling secure ge
 ---
 
 ### 🏆 Spirenex – Multi-Tenant SaaS Platform
-Architected and developed a cloud-ready multi-tenant SaaS platform for sports academies with ERP, attendance, fee management, WhatsApp notifications, payment automation and analytics.
+Architected and developed a cloud-ready multi-tenant SaaS platform for sports academies with ERP, Admissions, attendance, fee management, WhatsApp notifications, payment automation, analytics and dedicated Chess Modules with Lichess and Chess.com integration.
 
 ---
 
@@ -115,15 +115,23 @@ Architected and developed a cloud-ready multi-tenant SaaS platform for sports ac
 - Cyber Security
 - Modern DevOps Practices
 
+## 🎯 Industries
+
+- Government
+- Financial Services
+- Education Technology
+- SaaS
+- Cyber Security
 ---
 
 ## 🤝 Knowledge Sharing
 
 I enjoy sharing knowledge through technical workshops, mentoring and continuous learning.
 
+- Co-author – *Manual on Developing Websites with Universal Design*
 - Resource Person – OSLSM National Workshop, IIT Bhubaneswar
 - Guest Faculty – JSS Academy of Higher Education & Research
-- Co-author – *Manual on Developing Websites with Universal Design*
+  
 
 ---
 
