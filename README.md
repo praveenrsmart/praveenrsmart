@@ -1,4 +1,6 @@
-![Praveen Kumar - Solution Architect](./assets/Praveen-cover.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praveenrsmart/praveenrsmart/main/assets/Praveen-cover.png" alt="Praveen Kumar - Solution Architect" width="100%">
+</p>
 # Hi, I'm Praveen Kumar 👋
 
 ## Solution Architect | Enterprise Applications | Cloud | AI-Assisted Software Engineering
