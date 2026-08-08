@@ -1,4 +1,4 @@
-!(./assets/Praveen-cover.png)
+![Praveen Kumar - Solution Architect](./assets/Praveen-cover.png)
 # Hi, I'm Praveen Kumar 👋
 
 ## Solution Architect | Enterprise Applications | Cloud | AI-Assisted Software Engineering
